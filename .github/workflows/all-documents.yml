@@ -40,3 +40,4 @@ jobs:
           cat all-documents.json | jq | head -n 50
 
           # We're essentially expecting it to not crash and fail.
+[![All documents script](https://github.com/github/docs/actions/workflows/all-documents.yml/badge.svg?branch=main&event=pull_request_target)](https://github.com/github/docs/actions/workflows/all-documents.yml)
